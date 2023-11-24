@@ -1,3 +1,5 @@
+-- ЗАЛУПА ЕБАНАЯ
+
 local optimize = {}
 
 optimize.get_boolean = function(item)
